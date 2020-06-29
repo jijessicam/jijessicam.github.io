@@ -49,3 +49,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+#about-li {
+    font-size: 1.2em;
+}
